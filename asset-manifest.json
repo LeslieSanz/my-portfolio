@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/my-portfolio/static/js/main.a8d50897.js",
+    "static/media/beettlejuice.png": "/my-portfolio/static/media/beettlejuice.3acc2180646e532bf32a.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.bf538fe7.css.map": "/my-portfolio/static/css/main.bf538fe7.css.map",
+    "main.a8d50897.js.map": "/my-portfolio/static/js/main.a8d50897.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.a8d50897.js"
+  ]
+}
